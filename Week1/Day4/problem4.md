@@ -1,4 +1,3 @@
-
 ## MCQ 4: Factorial with Print
 ```python
 function fact(n):
